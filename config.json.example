@@ -1,0 +1,5 @@
+{
+    "name": "Name of your bot",
+    "status": "with discordPy",
+    "secret": "Your bot secret"
+}
